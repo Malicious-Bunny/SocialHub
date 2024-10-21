@@ -35,4 +35,4 @@ Backend: https://github.com/Skolaczk/SocialHub/blob/develop/api/README.md
 ![image](https://github.com/Skolaczk/SocialHub/assets/76774237/933502a0-7fd8-40eb-8be7-697a9153bb4b)
 
 
-If you encounter a problem, write to this e-mail address: [skolakmichal1@gmail.com](mailto:skolakmichal1@gmail.com)
+If you encounter a problem, write to this e-mail address: [gw50037@gmail.com](mailto:skolakmichal1@gmail.com)
